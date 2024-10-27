@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mano270699" alt="mano270699" /></a> </p>
 
-- 🔭 I’m currently working on [m3dania](https://github.com/mano270699/m3dania)
 
 - 🌱 I’m currently learning **Clean Architecture, Clean code ,Flutter ,Dart**
 
